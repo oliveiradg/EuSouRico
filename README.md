@@ -1,16 +1,13 @@
-# flutter_application
+# EuSouRico
 
-A new Flutter project.
+Flutter project.
 
-## Getting Started
+Eu Sou Rico - Aplicatico Desenvolvido em Flutter
 
-This project is a starting point for a Flutter application.
+Esse aplicativo foi lançado no lá no inicío da Apple Store e causou grande polêmica entre os usuários.
 
-A few resources to get you started if this is your first Flutter project:
+Com o nome de "I am rich" (em português, 'eu sou rico'), o software custa US$ 999,99 e tem como única função exibir na tela do aparelho uma pedra preciosa vermelha.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+O aplicativo foi desenvolvido por Armin Heinrich e, segundo a descrição na página oficial, é "uma obra de arte, sem nenhuma função escondida".
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+foi vendido pelo menos uma dúzia, antes de ter sido tirado do ar pelo Apple.
